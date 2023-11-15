@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/davidbendixen/Development/WorkTrac/obj/Debug/net8.0/scopedcss/projectbundle/WorkTrac.bundle.scp.css",
+      "PackagePath": "staticwebassets/WorkTrac.bundle.scp.css"
+    },
+    {
+      "Id": "/Users/davidbendixen/Development/WorkTrac/wwwroot/app.css",
+      "PackagePath": "staticwebassets/app.css"
+    },
+    {
+      "Id": "/Users/davidbendixen/Development/WorkTrac/wwwroot/bootstrap/bootstrap.min.css",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/davidbendixen/Development/WorkTrac/wwwroot/bootstrap/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/bootstrap/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/davidbendixen/Development/WorkTrac/wwwroot/favicon.png",
+      "PackagePath": "staticwebassets/favicon.png"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.WorkTrac.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.WorkTrac.props",
+      "PackagePath": "build\\WorkTrac.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.WorkTrac.props",
+      "PackagePath": "buildMultiTargeting\\WorkTrac.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.WorkTrac.props",
+      "PackagePath": "buildTransitive\\WorkTrac.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
